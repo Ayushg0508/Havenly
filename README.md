@@ -115,7 +115,7 @@ npm install
 Create a `.env` file in the backend directory and add the required configuration.
 
 ```env
-MONGODB_URI=your_mongodb_connection_string
+MONGODB_URI
 PORT=5000
 ```
 
